@@ -1,8 +1,7 @@
 ## About Me
 
 ### Profession
-- red team operator
-- cloud native security（learning）
+- a salted fish
 
 ### certification
 - oscp
